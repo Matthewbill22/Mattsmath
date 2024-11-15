@@ -1,7 +1,3 @@
-# Welcome to GBA Emulator
+# Welcome to Matts Math
 
-GBA Emulator is a free, online GBA emulator! I have 50+ Games to play!
-
-# GBA Emulator Website
-
-https://theclashman2.github.io/GBA-Emulator/
+Matts Math is a undercover game website I have 50+ Games to play!
